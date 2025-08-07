@@ -5,7 +5,9 @@
 
 ## Repaso tipo de datos
 
--enteros
+-[enteros](1-enteros.py)
+
+
 
 -flotantes
 
