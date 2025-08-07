@@ -7,7 +7,7 @@
 
 -enteros
 
--flotantes
+-[decimales](2-decimales.py)
 
 -strings
 
