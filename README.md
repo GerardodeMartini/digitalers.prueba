@@ -1,2 +1,9 @@
-# digitalers.prueba
-prueba de github y python
+# Python avanzado   
+## Repaso tipo de datos
+-enteros
+-flotantes
+-strings
+-listas
+-conjuntos
+-diccionarios
+-tuplas
